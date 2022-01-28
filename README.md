@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently full-time participate on our organization [NQ4.NET](https://github.com/nq4-net) 
+
+- ⚡ Visit my: [Medium Blog](https://plusua.medium.com/) | [YouTube Channel](https://www.youtube.com/channel/UCX24nLhinRELZX9ENHN7QoQ) | [Twitter](https://twitter.com/huan_carlos) |
+
 <!--
 **PlusUA/PlusUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
